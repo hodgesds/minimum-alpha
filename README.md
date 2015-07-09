@@ -1,1 +1,1 @@
-# minimum-alpha
+## Minimum Alpha
